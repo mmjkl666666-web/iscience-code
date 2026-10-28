@@ -1,0 +1,1 @@
+\varepsilon_{\text{eff}} = \varepsilon_s \left( \frac{\varepsilon_c (1+2\phi) + 2\varepsilon_s (1-\phi)}{\varepsilon_c (1-\phi) + \varepsilon_s (2+\phi)} \right)
