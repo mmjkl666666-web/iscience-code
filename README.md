@@ -1,2 +1,2 @@
 # iscience-code
-The raw code supporting the data-driven core-shell screening analysis in this work
+The raw code for this paper titled *Data-driven core-shell screening accelerates dielectric loss reduction in calcium copper titanate*.
